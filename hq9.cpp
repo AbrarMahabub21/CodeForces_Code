@@ -7,7 +7,8 @@ int main()
     string str;
     bool flg = false;
     cin >> str;
-    for (int i = 0; i < str.length(); i++)
+    int x = str.length();
+    for (int i = 0; i < x; i++)
     {
         /* code */
         if (str[i] == 'H' || str[i] == 'Q' || str[i] == '9')
