@@ -59,6 +59,6 @@
   "files.associations": {
     "MLTable": "yaml",
     "iostream": "cpp",
-    "ostream": "cpp"
+    "random": "cpp"
   }
 }
