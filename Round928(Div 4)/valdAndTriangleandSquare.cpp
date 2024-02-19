@@ -50,7 +50,6 @@ int main()
         }
 
         ((cntmax * cntmax) == cnt) ? cout << "SQUARE" << endl : cout << "TRIANGLE" << endl;
-        999
     }
 
     return 0;
